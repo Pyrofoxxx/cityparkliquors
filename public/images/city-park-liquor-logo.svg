@@ -17,8 +17,8 @@
 	</g>
 
 	<g transform="translate(270 30)">
-		<text x="0" y="82" fill="#174b35" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" letter-spacing="5">CITY PARK</text>
-		<text x="0" y="166" fill="url(#gold)" stroke="#174b35" stroke-width="3" paint-order="stroke" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" letter-spacing="10">LIQUOR</text>
+		<text x="0" y="82" fill="url(#gold)" stroke="#174b35" stroke-width="2" paint-order="stroke" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" letter-spacing="5">CITY PARK</text>
+		<text x="0" y="166" fill="url(#gold)" stroke="#174b35" stroke-width="2" paint-order="stroke" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" letter-spacing="10">LIQUOR</text>
 
 		<g transform="translate(5 188)">
 			<path d="M0 29V6c0-4 3-6 7-6h34c4 0 7 2 7 6v23c0 14-10 25-24 25S0 43 0 29z" fill="#d5a02b" stroke="#174b35" stroke-width="5"/>
