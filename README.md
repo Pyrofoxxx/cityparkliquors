@@ -1,4 +1,4 @@
-# City Park Liquors Website
+# City Park Liquor Website
 
 Use: Download the repository with git.
 
