@@ -795,6 +795,16 @@ a img {
 	display: block;
 	padding: 0 .25em;
 }
+.site-title.brand-logo a {
+	border: 0;
+	padding: 0;
+}
+.site-title.brand-logo img {
+	display: block;
+	height: auto;
+	max-width: 760px;
+	width: 90%;
+}
 .site-main {
 	margin: 0 0;
 }

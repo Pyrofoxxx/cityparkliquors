@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title description">
+	<title id="title">City Park Liquor</title>
+	<desc id="description">City Park Liquor logo with beer, wine, and liquor icons.</desc>
+	<defs>
+		<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0" stop-color="#f4ce68"/>
+			<stop offset="1" stop-color="#c98b1d"/>
+		</linearGradient>
+	</defs>
+
+	<g transform="translate(18 28)">
+		<circle cx="112" cy="112" r="102" fill="#ffffff" stroke="#174b35" stroke-width="10"/>
+		<path d="M112 194v-82" fill="none" stroke="#174b35" stroke-width="16" stroke-linecap="round"/>
+		<path d="M112 112c-43-4-72-34-65-68 35-15 70 2 77 33 10-31 45-48 80-33 7 34-22 64-65 68z" fill="#2f8050"/>
+		<path d="M112 112c-24-23-43-36-65-68M112 112c24-23 43-36 65-68" fill="none" stroke="#77a96d" stroke-width="6" stroke-linecap="round"/>
+		<path d="M66 194h92" fill="none" stroke="#c98b1d" stroke-width="8" stroke-linecap="round"/>
+	</g>
+
+	<g transform="translate(270 30)">
+		<text x="0" y="82" fill="#174b35" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" letter-spacing="5">CITY PARK</text>
+		<text x="0" y="166" fill="url(#gold)" stroke="#174b35" stroke-width="3" paint-order="stroke" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" letter-spacing="10">LIQUOR</text>
+
+		<g transform="translate(5 188)">
+			<path d="M0 29V6c0-4 3-6 7-6h34c4 0 7 2 7 6v23c0 14-10 25-24 25S0 43 0 29z" fill="#d5a02b" stroke="#174b35" stroke-width="5"/>
+			<path d="M7 13h34v16H7z" fill="#f1bf43"/>
+			<path d="M48 10h9v46h-9z" fill="#174b35"/>
+			<text x="68" y="42" fill="#174b35" font-family="Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="2">BEER</text>
+
+			<path d="M234 0h58l-7 20v27l13 7h-70l13-7V20z" fill="#7e213b" stroke="#174b35" stroke-width="5"/>
+			<path d="M240 20h46l-6 24h-34z" fill="#a83a56"/>
+			<text x="252" y="42" fill="#174b35" font-family="Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="2">WINE</text>
+
+			<g transform="translate(458 0)">
+				<rect x="0" y="30" width="58" height="32" rx="8" fill="#f7f1dc" stroke="#174b35" stroke-width="5"/>
+				<rect x="17" y="12" width="24" height="22" rx="3" fill="#f7f1dc" stroke="#174b35" stroke-width="5"/>
+				<rect x="10" y="40" width="38" height="17" rx="3" fill="#c98b1d"/>
+			</g>
+			<text x="532" y="42" fill="#174b35" font-family="Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="2">LIQUOR</text>
+		</g>
+	</g>
+</svg>
